@@ -1,0 +1,3 @@
+[submodule "pyseg_system"]
+	path = pyseg_system
+	url = https://github.com/anmartinezs/pyseg_system.git
